@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center" href="https://bank.gov.ua/en/about/humanitarian-aid-to-ukraine">
   <img src="https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/blt4cef03a401fc1c2c/623898f9ba1c6a10726dabe3/Stand_with_Ukraine_Header.png?quality=80&format=webply&width=1000" alt="image"/>
-</p>
+</a>
 
 <h1 align="center">Hiii 👋, I'm Anya Melnyk 👧🏼</h1>
 <h3 align="center">A creative front-end developer, located in NYC 🗽</h3>
